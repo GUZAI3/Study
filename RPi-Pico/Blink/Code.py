@@ -1,3 +1,4 @@
+#Turn on the three LEDs in order
 import machine
 import utime
 led1 = machine.Pin(3, machine.Pin.OUT)
